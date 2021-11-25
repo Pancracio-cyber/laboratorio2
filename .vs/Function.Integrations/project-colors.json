@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "445b778e-4ab0-4c00-864c-f2a693fd7e87": {
+      "ProjectGuid": "445b778e-4ab0-4c00-864c-f2a693fd7e87",
+      "DisplayName": "Functions.IntegrationsTest",
+      "ColorIndex": 0
+    },
+    "ead3fc53-e38f-4d36-9dfc-f95f637754b1": {
+      "ProjectGuid": "ead3fc53-e38f-4d36-9dfc-f95f637754b1",
+      "DisplayName": "Function.Integrations",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
